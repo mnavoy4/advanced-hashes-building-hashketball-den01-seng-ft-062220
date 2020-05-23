@@ -13,6 +13,8 @@ def game_hash
         :rebounds => 8,
         :assists => 4,
         :steals => 5,
+        :blocks => 5,
+        :slam_sunks => 4
         }
         ]
     }
