@@ -2,6 +2,11 @@
 def game_hash
   {
     :home => {
-      :team_name => ""
+      :team_name => "",
+      :colors => [],
+      :players => [
+        :player_name => "",
+        :number => 1
+        ]
     }
   }
