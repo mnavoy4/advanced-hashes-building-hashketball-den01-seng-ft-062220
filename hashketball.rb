@@ -10,6 +10,8 @@ def game_hash
         :shoe => "",
         :points => 2,
         :rebounds => 8,
+        :assists => 4,
+        :steals => 5,
         
         ]
     }
