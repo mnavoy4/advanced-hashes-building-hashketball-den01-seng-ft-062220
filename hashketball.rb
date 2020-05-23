@@ -5,6 +5,7 @@ def game_hash
       :team_name => "",
       :colors => [],
       :players => [
+        {
         :player_name => "",
         :number => 1,
         :shoe => "",
@@ -12,7 +13,7 @@ def game_hash
         :rebounds => 8,
         :assists => 4,
         :steals => 5,
-        
+        }
         ]
     }
   }
